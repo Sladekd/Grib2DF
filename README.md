@@ -6,7 +6,7 @@ Extracting spatial slice and forecast hour from GRIB with pygrib and plotting wi
 3. Plot them in the meshgrid using folium
 
 # Step 2: Plotting
-![PLT Visualization](https://github.com/Sladekd/Grib2DF/blob/main/Customized_folium.PNG)
+![PLT Visualization](https://github.com/Sladekd/Grib2DF/blob/main/Plot_Ws.png)
 
 
 
